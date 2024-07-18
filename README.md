@@ -13,11 +13,17 @@ This project involves the creation of a comprehensive dashboard in Excel to anal
 ## Visualizations:
 
 **Quantity Order by Hour:** Shows the distribution of orders throughout the day.
+
 **Categories % Distribution Based on Sales:** Illustrates the sales distribution across different product categories.
+
 **% Size Distribution Based on Orders:** Depicts the distribution of order sizes.
+
 **Footfall and Sales over Various Store Locations:** Compares footfall and sales performance across different locations.
+
 **Top 5 Selling Products:** Highlights the most popular products based on sales.**
+
 Orders on Weekdays:** Analyzes order patterns across different days of the week.
+
 ## Technologies Used:
 
 Microsoft Excel for data analysis and visualization
