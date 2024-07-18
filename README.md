@@ -22,11 +22,13 @@ This project involves the creation of a comprehensive dashboard in Excel to anal
 
 **Top 5 Selling Products:** Highlights the most popular products based on sales.**
 
-Orders on Weekdays:** Analyzes order patterns across different days of the week.
+**Orders on Weekdays:** Analyzes order patterns across different days of the week.
 
 ## Technologies Used:
 
 Microsoft Excel for data analysis and visualization
+
 Data manipulation and KPI calculation
+
 ## Usage:
 This dashboard can be utilized by coffee shop managers and analysts to gain actionable insights, optimize operations, and enhance customer experience.
